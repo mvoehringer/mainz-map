@@ -1,0 +1,77 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"name": "Bühnentheater"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				8.278402090072632,
+				49.99297401134669
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"name": "Aquädukt"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				8.252277374267578,
+				49.98951140661562
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"name": "Drususstein"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				8.274180293083191,
+				49.99216701220676
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"name": "Jupitersäule",
+			"Note": "Fundort geschätzt"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				8.261632919311522,
+				50.01172430546311
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"name": "Isesheiligtum"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				8.268021941184998,
+				50.00118807818695
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"name": "Römerschiffe"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				8.274748921394348,
+				50.00206043861823
+			]
+		}
+	}]
+}

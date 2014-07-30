@@ -45,8 +45,8 @@
 		"geometry": {
 			"type": "Point",
 			"coordinates": [
-				8.261632919311522,
-				50.01172430546311
+				8.259079456329346,
+				50.01100725329447
 			]
 		}
 	}, {
@@ -71,6 +71,19 @@
 			"coordinates": [
 				8.274748921394348,
 				50.00206043861823
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "Blussus Grab",
+			"note": "Fundort geschätzt"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				8.291072845458984,
+				49.98732473297363
 			]
 		}
 	}]

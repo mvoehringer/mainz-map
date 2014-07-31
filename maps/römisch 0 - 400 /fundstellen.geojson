@@ -108,6 +108,19 @@
           50.00231904044727
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aquädukt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.229387402534485,
+          49.98779380698845
+        ]
+      }
     }
   ]
 }

@@ -160,6 +160,19 @@
           49.98679701923879
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "zwei Weihealtäre der Kultanlage für den Gott Mithras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.269749283790588,
+          49.99770882319909
+        ]
+      }
     }
   ]
 }

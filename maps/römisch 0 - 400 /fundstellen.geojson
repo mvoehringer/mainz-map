@@ -84,7 +84,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Blussus Grab",
-        "note": "Fundort geschätzt"
+        "note": "Fundort grob geschätzt"
       },
       "geometry": {
         "type": "Point",
@@ -145,6 +145,19 @@
         "coordinates": [
           8.284002542495728,
           50.008690550090805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gräberstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.287371397018433,
+          49.98679701923879
         ]
       }
     }

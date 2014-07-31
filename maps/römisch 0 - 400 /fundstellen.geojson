@@ -121,6 +121,19 @@
           49.98779380698845
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Römertor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.263601660728455,
+          49.99634325888329
+        ]
+      }
     }
   ]
 }

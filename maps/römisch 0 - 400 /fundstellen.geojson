@@ -134,6 +134,19 @@
           49.99634325888329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ehrenbogen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.284002542495728,
+          50.008690550090805
+        ]
+      }
     }
   ]
 }

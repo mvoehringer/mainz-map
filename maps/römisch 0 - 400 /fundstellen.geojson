@@ -44,12 +44,12 @@
       "type": "Feature",
       "properties": {
         "name": "Jupitersäule",
-        "Note": "Fundort geschätzt"
+        "Note": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.259079456329346,
+          8.25847864151001,
           50.01100725329447
         ]
       }

@@ -541,6 +541,30 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strasse Richtung Hofheim",
+        "note": "Verlauf geschätzt anhand der heute vorhandenen Straße"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.42428207397461,
+            50.063199976719304
+          ],
+          [
+            8.279871940612793,
+            50.00710464720188
+          ],
+          [
+            8.273735046386719,
+            50.004594676558526
+          ]
+        ]
+      }
     }
   ]
 }

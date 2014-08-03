@@ -173,6 +173,33 @@
           49.99770882319909
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gräberfeld \"Via Sepulcra\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.292338848114012,
+          49.98122635448463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rund Arena (Pferde Anlage?)",
+        "note": "Lage grob geschätz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.23476791381836,
+          50.00464984215712
+        ]
+      }
     }
   ]
 }
